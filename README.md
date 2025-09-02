@@ -17,6 +17,6 @@ Currently a Data Analyst Intern @ AI Variant, Bangalore, where I work on transfo
 - Superstore Analytics
 
 ## 🌐 Connect  
-📧 [shinybhavana275@gmail.com] [mailto:shinybhavana275@gmail.com]  
+📧 [Email] [mailto:shinybhavana275@gmail.com]  
 🔗 [LinkedIn] [https://www.linkedin.com/in/bhavana3] 
 
