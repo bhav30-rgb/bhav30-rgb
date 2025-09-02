@@ -1,6 +1,7 @@
 ## Hi there 👋 I'm Bhavana B  
 
 💡 Data Analyst | SQL | Excel | Power BI | Tableau | Python
+
 Currently a Data Analyst Intern @ AI Variant, Bangalore, where I work on transforming raw data into actionable insights through dashboards and analytics solutions.  
 
 ## 🔹 Skills  
@@ -17,5 +18,5 @@ Currently a Data Analyst Intern @ AI Variant, Bangalore, where I work on transfo
 
 ## 🌐 Connect  
 📧 [shinybhavana275@gmail.com] [mailto:shinybhavana275@gmail.com]  
-🔗 [LinkedIn] [https://www.linkedin.com/in/bhavana-b] 
+🔗 [LinkedIn] [https://www.linkedin.com/in/bhavana3] 
 
