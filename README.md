@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there 👋 I'm Bhavana B  
 
-<!--
-**bhav30-rgb/bhav30-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Data Analyst | SQL | Excel | Power BI | Tableau | Python
+Currently a Data Analyst Intern @ AI Variant, Bangalore, where I work on transforming raw data into actionable insights through dashboards and analytics solutions.  
 
-Here are some ideas to get you started:
+## 🔹 Skills  
+- SQL | Excel | Python (Pandas, NumPy, Matplotlib)  
+- Power BI & Tableau (Interactive Dashboards)  
+- Data Cleaning | EDA | KPI Tracking | Storytelling with Data  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects  
+- Retail & Manufacturing Analytics 
+- Hospitality Analytics  
+- Banking Analytics   
+- Sports Analytics
+- Superstore Analytics
+
+## 🌐 Connect  
+📧 [shinybhavana275@gmail.com] [mailto:shinybhavana275@gmail.com]  
+🔗 [LinkedIn] [https://www.linkedin.com/in/bhavana-b] 
+
