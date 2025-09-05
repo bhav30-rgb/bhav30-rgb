@@ -12,7 +12,7 @@ I’m passionate about applying data to solve business problems, uncover pattern
 
 ## 🔹 Skills  
 - SQL | Excel | Python (Pandas, NumPy, Matplotlib)  
-- Power BI & Tableau (Interactive Dashboards)  
+- Power BI & Tableau   
 - Data Cleaning | EDA | KPI Tracking | Storytelling with Data  
 
 ## 📂 Projects  
