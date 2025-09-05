@@ -1,12 +1,13 @@
 ## Hi there 👋 I'm Bhavana B  
 
+💡 Data Analyst | SQL | Excel | Power BI | Tableau | Python
+
 Data Analyst with hands-on experience from a 6-month internship at AI Variant, Bangalore, where I worked on transforming raw data into actionable insights through interactive dashboards, reports, and analytics solutions.
 
 I’m passionate about applying data to solve business problems, uncover patterns, and support decision-making. My projects span across retail, manufacturing, hospitality, banking, and sports, showcasing versatility and adaptability across industries.
 
 💡 On this GitHub, you’ll find a collection of projects that reflect my journey in turning data into stories that drive growth.
 
-💡 Data Analyst | SQL | Excel | Power BI | Tableau | Python
 
 
 ## 🔹 Skills  
